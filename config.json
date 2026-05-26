@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvpdate",
+        "uuid": 5671202,
+        "checksum": "jap8z"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
